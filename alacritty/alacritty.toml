@@ -1,0 +1,42 @@
+[window]
+
+opacity = 1.0
+
+padding.x = 5
+padding.y = 5
+
+decorations = "Full"
+decorations_theme_variant = "Dark"
+
+dynamic_title = true
+
+[font]
+
+normal.family = "JetBrainsMono Nerd Font"
+bold.family = "JetBrainsMono Nerd Font"
+italic.family = "JetBrainsMono Nerd Font"
+bold_italic.family = "JetBrainsMono Nerd Font"
+
+size = 12.0
+
+[colors]
+
+primary.background = "#292d3e"
+
+normal.black="#292d3e"
+normal.red="#f07178"
+normal.green="#c3e88d"
+normal.yellow="#ffcb6b"
+normal.blue="#82aaff"
+normal.magenta="#c792ea"
+normal.cyan="#89ddff"
+normal.white="#d0d0d0"
+
+bright.black="#434758"
+bright.red="#ff8b92"
+bright.green="#ddffa7"
+bright.yellow="#ffe585"
+bright.blue="#9cc4ff"
+bright.magenta="#e1acff"
+bright.cyan="#a3f7ff"
+bright.white="#ffffff"
